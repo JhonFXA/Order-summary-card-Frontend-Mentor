@@ -20,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url('/images/pattern-background-desktop.svg') var(--pale-blue) no-repeat;
+    background: url('../images/pattern-background-desktop.svg') var(--pale-blue) no-repeat;
     background-size: contain;
     min-height: 100vh;
     font-size: 13px;
